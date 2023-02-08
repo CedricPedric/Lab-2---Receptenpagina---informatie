@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+
+.main-container{
+    margin: 0;
+    align-items: left;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.mini-container{
+    padding-bottom: 40px;
+}
+
+.text_class{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 36px;
+}
+
+#main-title{
+
+    font-size: 36px;
+    line-height: 36px;
+}
+
+#first-paragraf{
+    font-size: 24px;
+    line-height: 36px
+}
+
+h2{
+    font-size: 32px;
+    line-height: 32px;
+}
+
+.tip-table {
+    background-color:#def6ed;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+}
+
+.ingredient-list{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ingredient-list li{
+    margin: 10px 0; 
+}
+
+.recipe-list li{
+    margin: 20px 0;
+}
