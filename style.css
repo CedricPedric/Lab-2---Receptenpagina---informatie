@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
 
 
+/* hoofgerecht.html styling*/
+
 .main-container{
     margin: 0;
     align-items: left;
     margin-left: 20%;
     margin-right: 20%;
+    padding-top: 65px;
+    
 }
 
 .mini-container{
@@ -22,6 +26,7 @@
 
     font-size: 36px;
     line-height: 36px;
+    padding-top: 65px;
 }
 
 #first-paragraf{
@@ -58,4 +63,25 @@ h2{
 
 #tip-text{
     font-weight: bold;
+
+/* Navbar styling */
+
+}
+
+.container-fluid {
+    display: flex;
+    justify-content: right !important;
+}
+
+.navbar-toggler-icon {
+    width: 2.5em !important;
+    height: 2.5em !important;
+}
+
+.offcanvas-title {
+    font-size: 30px;
+}
+
+.nav-item {
+    font-size: 20px;
 }
