@@ -34,11 +34,13 @@ h2{
     line-height: 32px;
 }
 
-.tip-table {
+.tip-container {
     background-color:#def6ed;
-    width: 100%;
-    display: flex;
-    justify-content: start;
+    border-radius: 4px;
+    margin-top: 25px;
+    padding: 25px;
+    display: flex
+
 }
 
 .ingredient-list{
@@ -52,4 +54,8 @@ h2{
 
 .recipe-list li{
     margin: 20px 0;
+}
+
+#tip-text{
+    font-weight: bold;
 }
