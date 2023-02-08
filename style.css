@@ -63,10 +63,16 @@ h2{
 
 #tip-text{
     font-weight: bold;
+}
+
+img{
+    width: 650px;
+    height: auto;
+}
 
 /* Navbar styling */
 
-}
+
 
 .container-fluid {
     display: flex;
